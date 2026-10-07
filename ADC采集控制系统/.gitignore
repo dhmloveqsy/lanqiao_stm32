@@ -1,0 +1,16 @@
+# Keil build output and per-user state; keep sources/project/linker files.
+Objects/
+Listings/
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.crf
+*.lnp
+*.dep
+*.lst
+*.build_log.htm
+/MDK-ARM/lanqiao_basedemo/*.htm
+*.uvguix.*
+*.uvgui.*
